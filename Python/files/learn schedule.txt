@@ -1,0 +1,4 @@
+number of words: 4	1 -->	python 16 videos
+number of words: 4	2 -->	pandas 08 videos
+number of words: 4	3 -->	ML 16 videos
+number of words: 6	4 -->	Deep Learning with Tensorflow 2.0
